@@ -1,0 +1,27 @@
+body {
+    padding: 0px;
+    margin: 0;
+    background-color: #66ccff;
+    font-family:sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 5rem;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.btn_delete {
+
+}
+
+.each_todo {
+    margin-top: 1rem;
+}
